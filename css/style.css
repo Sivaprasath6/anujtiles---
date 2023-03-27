@@ -1,0 +1,24 @@
+li{
+    padding: 5px;
+}
+.bold{
+    font-size: 15px;
+}
+.nav-link{
+    font-size: 15px;
+    font-weight: 700 !important;
+    border: 2px solid transparent;
+    color: white !important;
+}
+
+.nav-item {
+    margin-left: 50px !important;
+    text-align: center !important;
+}
+.nav-item:hover{
+    background-color: black;
+    transition: .1s;
+}
+.logodiv{
+        margin-left: 124px !important;
+}
